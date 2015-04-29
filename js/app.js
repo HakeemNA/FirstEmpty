@@ -10,6 +10,7 @@
     order.submitOrder = function() {
       order.orderCount--;
       order.orderCount = 1;
+      // just a comment
     };
   });
 })();
